@@ -1,2 +1,5 @@
 # JHUDataScience
-JHU Coursera Course
+## JHU Coursera Course
+* One
+* Two
+* Three
